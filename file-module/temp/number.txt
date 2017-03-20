@@ -1,0 +1,2 @@
+my Magic Number:
+utf-8
